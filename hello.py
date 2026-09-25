@@ -1,3 +1,3 @@
 print("Hello, Git!")
 print("I am learning Git!")
-print("Hello from main!")
+print("Hello from merged branches!")
